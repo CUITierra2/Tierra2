@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "garabito",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nombre": "Finca Garabito", "Video": "<a href=\"http:\/\/www.geomotionvideo.com\/shared\/videos\/nAdyMTMyzSMzefiHE\">\n<img border=\"0\" alt=\"W3Schools\" src=\"http:\/\/srmconsulting.es\/wp-content\/uploads\/2018\/07\/Recurso-8.png\" width=\"100\" height=\"100\">\n<\/a>", "Facebook": "<a href=\"https:\/\/es-es.facebook.com\/pages\/category\/Agriculture\/Finca-Garabito-174103979796443\/\">\nFinca Garabito<\/a>" }, "geometry": { "type": "Point", "coordinates": [ -5.329723665765782, 36.417655177719176 ] } }
+]
+}
