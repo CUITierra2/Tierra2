@@ -1,0 +1,6680 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<atom:author>
+		<atom:name>Xunta de Galicia</atom:name>
+	</atom:author>
+	<atom:link href="http://www.xunta.es" rel="related"/>
+	<name>Praias galegas con bandeira azul</name>
+	<open>1</open>
+	<description>107 praias en Galicia</description>
+	<Style id="TemaXunta">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/swimming.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>00B67F06</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>92E09E00</color>
+		</PolyStyle>
+		<LabelStyle>
+			<color>FFFFFFFF</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<bgColor>FFB67F06</bgColor>
+			<textColor>FFFFFFFF</textColor>
+			<text>$[DescricionCE]</text>
+		</BalloonStyle>
+	</Style>
+	<ScreenOverlay>
+		<name>Xunta de Galicia</name>
+		<visibility>1</visibility>
+		<Icon>
+			<href>http://www.xunta.es/tema-portal-xunta/images/logoXuntaPe.png</href>
+		</Icon>
+		<overlayXY x="0.1" y="1.1" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0.01" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+<Folder id="id_-39542436">
+	<name>Coruña, A</name>
+	<open>0</open>
+	<description>38 praias</description>
+	<Placemark id="id_8b333adb11624a0fb5ac29d2a03d49f8">
+		<name>A Salsa</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area cantos rodados, e cunha lonxitude de 20m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Salsa</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Arteixo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area cantos rodados, e cunha lonxitude de 20m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=268679921" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Cantos rodados</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=268679921</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>20</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.525277,43.320555</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_93ba54f1434e4982987cf36fd03a437f">
+		<name>Area Grande ou Valcovo</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Area Grande ou Valcovo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Valcovo - Arteixo (Santiago)<br/>
+Arteixo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10268" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10268</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Valcovo - Arteixo (Santiago)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.533555,43.315444</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ce3feb9501b8443c96de1cf1b0eb78d4">
+		<name>Area Pequena - A Hucha</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 90m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Area Pequena - A Hucha</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Arteixo - Arteixo (Santiago)<br/>
+Arteixo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 90m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10267" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10267</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Arteixo - Arteixo (Santiago)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>90</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.53011,43.317583</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_01dc8bd6caf04a28824ecb77ed83f87a">
+		<name>Areal das Combouzas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Areal das Combouzas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Barrañán - Barrañán (San Xián)<br/>
+Arteixo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10269" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10269</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Barrañán - Barrañán (San Xián)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.544277,43.312667</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6451fa8dee624fd1b747c207a66bf996">
+		<name>Areal de Barrañán</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 1.200m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Areal de Barrañán</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Barrañán - Barrañán (San Xián)<br/>
+Arteixo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 1.200m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9861" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9861</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Barrañán - Barrañán (San Xián)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.200</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.552,43.311556</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_34b11c676e5e4687ba98100447b3dedc">
+		<name>Areal do Reiro</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 50m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Areal do Reiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Arteixo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 50m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=11436" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=11436</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>50</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.559806,43.311889</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_aa5db29fa5c7443892c7eec36622bcef">
+		<name>Sabón</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 900m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Sabón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sabón - Oseiro (San Tirso)<br/>
+Arteixo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 900m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9859" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9859</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Sabón - Oseiro (San Tirso)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>900</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.508833,43.327694</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_111ab9969ee04a579613ce0e79832353">
+		<name>A Retorta</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area grosa, e cunha lonxitude de 250m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Retorta</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Pesqueira - Castro (Santa María)<br/>
+Boiro<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area grosa, e cunha lonxitude de 250m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=260662698" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=260662698</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>A Pesqueira - Castro (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>250</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.865278,42.607667</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6e3ec84bef904e8d896a514cf5112ada">
+		<name>Barraña</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 3000m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Barraña</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Boiro - Boiro (Santa Baia)<br/>
+Boiro<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 3000m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9904" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9904</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Boiro - Boiro (Santa Baia)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>3000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.883889,42.639611</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_427fe4c7b16744f2965d60126e648c7c">
+		<name>Barraña-Saltiño</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 620m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Barraña-Saltiño</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Boiro - Boiro (Santa Baia)<br/>
+Boiro<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 620m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=276130117" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=276130117</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Boiro - Boiro (Santa Baia)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>620</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.884501,42.639496</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8ff5941c8b8349b284080c5b57a933b7">
+		<name>Carragueiros</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area grosa, e cunha lonxitude de 1. 510m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Carragueiros</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pesqueira, A - Castro (Santa María)<br/>
+Boiro<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area grosa, e cunha lonxitude de 1. 510m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9900" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9900</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Pesqueira, A - Castro (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1. 510</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.869833,42.610361</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8bc2d5f2e8714dc5a132484d1de6f37a">
+		<name>Ladeira do Chazo</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 940m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ladeira do Chazo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Chazo - Abanqueiro (San Cristovo)<br/>
+Boiro<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 940m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=268678131" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=268678131</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>O Chazo - Abanqueiro (San Cristovo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>940</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.857111,42.608056</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9f89b733b93c48bb869436aa3a0dd0e9">
+		<name>Mañóns</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 1.300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Mañóns</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Chancelas - Abanqueiro (San Cristovo)<br/>
+Boiro<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 1.300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=9898" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=9898</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Chancelas - Abanqueiro (San Cristovo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.85166700,42.63075000</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0ccb6b3a281e4723b39eb46fd5341943">
+		<name>Piñeirón</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 85m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Piñeirón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Banda ó Río - Castro (Santa María)<br/>
+Boiro<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 85m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=280381736" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=280381736</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Banda ó Río - Castro (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>85</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.884986,42.614845</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_085e27a738a147b4ac277fe5fa2a5d0c">
+		<name>Arou</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 400m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Arou</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Arou - Camelle (O Espírito Santo)<br/>
+Camariñas<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 400m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso/-/detalle/10290/arou" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso/-/detalle/10290/arou</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Arou - Camelle (O Espírito Santo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>400</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Camariñas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-9.10500000,43.18472300</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f5d23771280a4f0bb3c6e04200db6a93">
+		<name>Baldaio-Saíñas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 3.600m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Baldaio-Saíñas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Carballo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 3.600m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=268649359" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=268649359</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>3.600</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Carballo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.680305,43.298027</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a9dcc7f7bf1c4ccfaa18630ca0cbf38e">
+		<name>Pedra do Sal</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 3.600m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pedra do Sal</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Carballo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 3.600m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=268882051" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=268882051</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>3.600</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Carballo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.658278,43.301889</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6bbb08f09d8b4b09b7374be44d5f5e72">
+		<name>Razo</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 1.300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Razo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Razo da Costa - Razo (San Martiño)<br/>
+Carballo<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 1.300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso/-/detalle/9863" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso/-/detalle/9863</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Razo da Costa - Razo (San Martiño)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Carballo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.70877800,43.28969600</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_627c18086df24f59ae85dec333a61d5b">
+		<name>As Lapas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area grosa, e cunha lonxitude de 70m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>As Lapas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paseo Marítimo<br/>
+Coruña, A<br/>
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area grosa, e cunha lonxitude de 70m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=11435" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=11435</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Paseo Marítimo</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>70</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Coruña, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.40575,43.383666</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_cb983d6034214a39adbcaa0434c16dc0">
+		<name>Orzán</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area grosa, e cunha lonxitude de 600m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Orzán</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Orzán<br/>
+Coruña, A<br/>
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area grosa, e cunha lonxitude de 600m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9856" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9856</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Orzán</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>600</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Coruña, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.404972,43.371055</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e3e9f8022d6f4c1b8e6e20c9515a2392">
+		<name>Oza</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 110m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Oza</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Coruña, A<br/>
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 110m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=30564" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=30564</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>110</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Coruña, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.38308300,43.34675000</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f16dac9478cf4dca8cc8160f2eeba995">
+		<name>Riazor</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area grosa, e cunha lonxitude de 600m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Riazor</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paseo Marítimo<br/>
+Coruña, A<br/>
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area grosa, e cunha lonxitude de 600m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9857" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9857</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Paseo Marítimo</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>600</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Coruña, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.411639,43.368472</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_1ec17dbe110540ce88e072bca34c527c">
+		<name>San Amaro</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 210m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>San Amaro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Adormideras<br/>
+Coruña, A<br/>
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 210m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9855" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9855</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Adormideras</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>210</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Coruña, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.397055,43.381833</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_29f950c5221741909930002171958a34">
+		<name>Ézaro</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 730m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ézaro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Ézaro - O Ézaro (Santa Uxía)<br/>
+Dumbría<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 730m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=11460" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=11460</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>O Ézaro - O Ézaro (Santa Uxía)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>730</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Dumbría</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-9.129083,42.908278</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_150f3231c44647b3b672c811f3653ecf">
+		<name>A Fragata</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 160m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Fragata</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Covas (San Martiño)<br/>
+Ferrol<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 160m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10216" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10216</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Covas (San Martiño)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>160</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ferrol</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.296833,43.5385</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_94f707e36e3547a7877bed20f1693640">
+		<name>Doniños</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 1.700m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Doniños</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Doniños - Doniños (San Román)<br/>
+Ferrol<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 1.700m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10112" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10112</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Doniños - Doniños (San Román)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.700</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ferrol</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.319194,43.495916</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_75d9e88dd792423c928daf13a51fa913">
+		<name>Esmelle</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 160m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Esmelle</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Esmelle - Esmelle (San Xoán)<br/>
+Ferrol<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 160m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=265393177" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=265393177</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Esmelle - Esmelle (San Xoán)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>160</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ferrol</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.295527,43.53425</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8e972baf48604c54aeac959e9b9b2e78">
+		<name>San Xurxo</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 2.100m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>San Xurxo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vila da Area - San Xurxo da Mariña (San Xurxo)<br/>
+Ferrol<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 2.100m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10111" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10111</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Vila da Area - San Xurxo da Mariña (San Xurxo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>2.100</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ferrol</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.301806,43.526222</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_bfc48f1e92a34fdabb12daef7a695f98">
+		<name>Caión-Salseiras</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 800m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Caión-Salseiras</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Caión - Caión (Santa María do Socorro)<br/>
+Laracha, A<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 800m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=11438" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=11438</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Caión - Caión (Santa María do Socorro)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>800</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Laracha, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.610333,43.315639</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c5c5289569684308a1974f73f0009af2">
+		<name>Perbes</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 500m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Perbes</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Miño<br/>
+Miño<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 500m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso/-/detalle/10117/perbes" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso/-/detalle/10117/perbes</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Miño</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>500</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Miño</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.21491700,43.37602600</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_3b7e3b53c0e24e1b9ce9880bcc575711">
+		<name>Bastiagueiro</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 580m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Bastiagueiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Perillo - Perillo (Santa Locaia)<br/>
+Oleiros<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 580m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10258" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10258</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Perillo - Perillo (Santa Locaia)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>580</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Oleiros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.362361,43.340722</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_921c115159024b1e87da58365f562d2c">
+		<name>Espiñeiro</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 310m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Espiñeiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Oleiros<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 310m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=265406054" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=265406054</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>310</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Oleiros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.3425,43.382777</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4f7823a4eeb4474dbe668a0091d2ce7d">
+		<name>Mera</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Mera</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Lagoa - Maianca (San Cosme)<br/>
+Oleiros<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10254" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10254</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>A Lagoa - Maianca (San Cosme)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>200</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Oleiros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.33775,43.379055</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a15ba961a3264fc5a2bed014dcc77057">
+		<name>Porto Naval</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area cantos rodados, e cunha lonxitude de 180m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Porto Naval</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Aguieira - Dorneda (San Martiño)<br/>
+Oleiros<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area cantos rodados, e cunha lonxitude de 180m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=11434" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Cantos rodados</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=11434</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>A Aguieira - Dorneda (San Martiño)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>180</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Oleiros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.346555,43.353389</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a1074a598d5d445fb63e318138e1fdea">
+		<name>Santa Cristina</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 1.800m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Santa Cristina</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Perillo - Perillo (Santa Locaia)<br/>
+Oleiros<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 1.800m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9877" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9877</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Perillo - Perillo (Santa Locaia)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.800</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Oleiros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.380083,43.339777</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0469d860d1f74817810e91c40f1378bf">
+		<name>Balarés</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 350m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Balarés</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Balarés - Cospindo (San Tirso)<br/>
+Ponteceso<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 350m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso/-/detalle/11448/balares" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso/-/detalle/11448/balares</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Balarés - Cospindo (San Tirso)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>350</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ponteceso</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.94527700,43.24166500</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_74c8e61600584bdfa43265391f24b16d">
+		<name>Ermida</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ermida</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Gondomil - Corme Aldea (Santo Adrán)<br/>
+Ponteceso<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso/-/detalle/10286/ermida" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso/-/detalle/10286/ermida</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Gondomil - Corme Aldea (Santo Adrán)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>200</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ponteceso</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.95000000,43.26389000</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_2c383d51f5c544adb124e5581d1d3e6d">
+		<name>Osmo</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 150m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Osmo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Porto de Corme - Corme Porto (Nosa Señora dos Remedios)<br/>
+Ponteceso<br/>
+Coruña, A
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 150m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso/-/detalle/10284/osmo" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso/-/detalle/10284/osmo</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>O Porto de Corme - Corme Porto (Nosa Señora dos Remedios)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>150</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Coruña, A</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ponteceso</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.90277800,43.29416700</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+<Folder id="id_1578743593">
+	<name>Pontevedra</name>
+	<open>0</open>
+	<description>55 praias</description>
+	<Placemark id="id_5ec4905af4ac4cd19177d88c3c7f38a8">
+		<name>A Ribeira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 150m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Ribeira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Baiona - Baiona (Santa María)<br/>
+Baiona<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 150m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso/-/detalle/10522/a-ribeira" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso/-/detalle/10522/a-ribeira</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Baiona - Baiona (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>150</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Baiona</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.84930500,42.12183400</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_637a10d4c4d04734aab086dd5e4463ad">
+		<name>Barbeira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 220m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Barbeira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Baiona - Baiona (Santa María)<br/>
+Baiona<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 220m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10523" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10523</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Baiona - Baiona (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>220</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Baiona</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.848777,42.123805</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_37d28cd2469843b38993b378e5c25242">
+		<name>Cuncheira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area grosa, e cunha lonxitude de 55m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cuncheira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paseo de Pinzón - Baiona (Santa María)<br/>
+Baiona<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area grosa, e cunha lonxitude de 55m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso/-/detalle/10525/cuncheira" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso/-/detalle/10525/cuncheira</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Paseo de Pinzón - Baiona (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>55</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Baiona</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.85155600,42.12225000</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c87a15d5db02464f93b56b30e42395a0">
+		<name>Os Frades</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area grosa, e cunha lonxitude de 100m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Os Frades</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Baiona - Baiona (Santa María)<br/>
+Baiona<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area grosa, e cunha lonxitude de 100m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10524" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10524</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Baiona - Baiona (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>100</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Baiona</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.851583,42.125638</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_46759e261ea7462fbb2e5d9c768b2277">
+		<name>Santa Marta</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 160m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Santa Marta</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Baiona<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 160m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=10521" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=10521</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>160</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Baiona</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.83825000,42.11414000</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e5b8ef9ded064749b7918579d44237db">
+		<name>Area de Bon</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 1.000m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Area de Bon</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Bon de Arriba - Beluso (Santa María)<br/>
+Bueu<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 1.000m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10464" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10464</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Bon de Arriba - Beluso (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Bueu</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.818888,42.314361</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_96f0395e4233440f96f18d37144cf1c8">
+		<name>Lagos</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 250m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Lagos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Montemogos - Beluso (Santa María)<br/>
+Bueu<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 250m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10135" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10135</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Montemogos - Beluso (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>250</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Bueu</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.825548,42.324508</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8a7323dd084e4e3996fca9c313c23f3f">
+		<name>Lapamán</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 800m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Lapamán</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Bueu<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 800m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=11370" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=11370</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>800</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Bueu</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.7525,42.341944</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_1f094957c1c54a1193c05b3cd9b5c4a5">
+		<name>Portomaior</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 750m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Portomaior</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Castrelo - Cela (Santa María)<br/>
+Bueu<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 750m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10132" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10132</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Castrelo - Cela (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>750</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Bueu</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.768388,42.334527</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b3eab31f25f445bc80c7bc4f1c052ba8">
+		<name>Area Brava</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 800m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Area Brava</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vilanova - O Hío (Santo André)<br/>
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 800m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10478" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10478</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Vilanova - O Hío (Santo André)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>800</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.844889,42.291333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e59952aa457847b1b6024ade955c435b">
+		<name>Area Milla</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 150m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Area Milla</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Balea - Darbo (Santa María)<br/>
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 150m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10486" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10486</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Balea - Darbo (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>150</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.794333,42.249916</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9bd98657a64d45fcbdc092d9bdc99ea1">
+		<name>Liméns</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 500m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Liméns</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 500m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=36672" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=36672</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>500</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.814028,42.259972</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4fa7dd76dd6d4aeeb7c2ee75c5f803ad">
+		<name>Melide (Espazo Natural Cabo Home)</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 250m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Melide (Espazo Natural Cabo Home)</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 250m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10483" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10483</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>250</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.866417,42.251833</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_3deceba1ef3f4500894c47d439deafb6">
+		<name>Menduíña</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 250m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Menduíña</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Menduíña - Aldán (San Cibrán)<br/>
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 250m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10466" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10466</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Menduíña - Aldán (San Cibrán)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>250</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.820249,42.295583</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_21bc91c679184bdbaba66275401b45a6">
+		<name>Nerga (Espazo Natural Cabo Home)</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 1.000m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Nerga (Espazo Natural Cabo Home)</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Nerga - O Hío (Santo André)<br/>
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 1.000m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10485" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10485</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Nerga - O Hío (Santo André)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.840135,42.258858</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f891f06cf54c4ca1913650d5d7994170">
+		<name>Rodeira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 1.100m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Rodeira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 1.100m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10136" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10136</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.100</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.769694,42.261778</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_eee5c2b009284d54a490575b1169104e">
+		<name>Area Grande</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Area Grande</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Guarda - A Guarda (Santa María)<br/>
+Guarda, A<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10526" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10526</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>A Guarda - A Guarda (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Guarda, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.876166,41.91025</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ce1a7ef75d384bedb5ee04f4a728fc39">
+		<name>Os Muíños</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 2.000m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Os Muíños</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Muíño - Camposancos (Santa Isabel)<br/>
+Guarda, A<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 2.000m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10529" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10529</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>O Muíño - Camposancos (Santa Isabel)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>2.000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Guarda, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.862944,41.876444</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6420925ef5ae46e4b466ef776e2bc909">
+		<name>Area de Secada</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 500m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Area de Secada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Illa de Arousa, A<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 500m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10092" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10092</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>500</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Illa de Arousa, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.887111,42.567972</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_82a7545a5ad64bb99a68733a0e16dfda">
+		<name>Camaxe</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area grosa</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Camaxe</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Illa de Arousa, A<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area grosa</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=258852417" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=258852417</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value></value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Illa de Arousa, A</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.867499,42.544389</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_286b7b135e094c92b278bd0d39352e06">
+		<name>Aguete</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 920m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Aguete</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Aguete - Seixo (Nosa Señora do Carme)<br/>
+Marín<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 920m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10140" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10140</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Aguete - Seixo (Nosa Señora do Carme)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>920</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Marín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.731472,42.37386</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_2cf213baf9644068b362e58d6474570d">
+		<name>Loira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 420m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Loira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Loira - Seixo (Nosa Señora do Carme)<br/>
+Marín<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 420m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="https://www.turismo.gal/recurso?cod_rec=10141" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.turismo.gal/recurso?cod_rec=10141</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Loira - Seixo (Nosa Señora do Carme)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>420</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Marín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.740332,42.368397</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_641ebf7c2e284c459b9ec2aaa31e567d">
+		<name>Mogor</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 400m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Mogor</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Monte - Mogor (San Xurxo)<br/>
+Marín<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 400m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10139" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10139</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>O Monte - Mogor (San Xurxo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>400</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Marín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.719416,42.385972</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9f89d58e8c664b8ba2eb3964c931053c">
+		<name>Portocelo</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 225m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Portocelo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Monte - Mogor (San Xurxo)<br/>
+Marín<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 225m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10138" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10138</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>O Monte - Mogor (San Xurxo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>225</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Marín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.71425,42.390027</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_358ef011cd694ec19d7217fbcefd1291">
+		<name>Santo do Mar</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 350m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Santo do Mar</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Casás - Ardán (Santa María)<br/>
+Marín<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 350m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10454" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10454</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Casás - Ardán (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>350</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Marín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.751444,42.348889</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e472610279424723900bec5cb579f79f">
+		<name>O Con</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 150m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Con</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Con - Tirán (San Xoán)<br/>
+Moaña<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 150m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10143" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10143</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>O Con - Tirán (San Xoán)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>150</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Moaña</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.740527,42.271083</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_522b4d359cff4482a51d3a2f71fb212b">
+		<name>Cabeceira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cabeceira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Campelo - Poio (San Xoán)<br/>
+Poio<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9796" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9796</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Campelo - Poio (San Xoán)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>200</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Poio</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.6823,42.422453</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4384b59c708f415aa1e757c6e83e1952">
+		<name>Praia fluvial da Calzada</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value></value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value></value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Praia fluvial da Calzada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paseo de Manuel Gordo Boullosa - Ponte Caldelas (Santa Eulalia)<br/>
+Ponte Caldelas<br/>
+Pontevedra
+</li></ul></p>
+
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=160512000048" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value></value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=160512000048</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Paseo de Manuel Gordo Boullosa - Ponte Caldelas (Santa Eulalia)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value></value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ponte Caldelas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.491745,42.39131</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_81f5982f1fd74b98a1b89cc409c70cec">
+		<name>A Punta-Cesantes</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area grosa</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Punta-Cesantes</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Redondela<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area grosa</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10124" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Grosa</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10124</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value></value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Redondela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.616528,42.304472</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6c6f01df9a9149aba21eee08bd642f6d">
+		<name>A Lanzada</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 2.300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Lanzada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 2.300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9739" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9739</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>2.300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.872075,42.441258</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_d4a999df150b421d9e05351d2fe08765">
+		<name>Areas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 350m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Areas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Areas - Bordóns (San Pedro)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 350m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=9767" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=9767</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Areas - Bordóns (San Pedro)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>350</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.77880500,42.39463800</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_362274d6bcf64604b5357e1b6023b630">
+		<name>Areas Gordas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 250m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Areas Gordas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 250m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9746" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9746</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>250</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.87261,42.430972</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_88343ddb2d224995ab1584aa9a57d4ae">
+		<name>Baltar</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 600m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Baltar</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Baltar - Adina (Santa María)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 600m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9778" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9778</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Baltar - Adina (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>600</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.822555,42.398722</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_61a82083b115436a9942518ffca0e9e9">
+		<name>Bascuas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 210m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Bascuas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Aios - Noalla (Santo Estevo)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 210m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9750" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9750</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Aios - Noalla (Santo Estevo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>210</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.858139,42.404139</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e28729a4142e41fe8af7665d0384b29d">
+		<name>Canelas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 400m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Canelas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Canelas - Adina (Santa María)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 400m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9754" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9754</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Canelas - Adina (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>400</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.831833,42.389972</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_77812df782a041ab9baf2f021733694a">
+		<name>Caneliñas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 100m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Caneliñas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Portonovo - Adina (Santa María)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 100m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=9755" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=9755</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Portonovo - Adina (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>100</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.82586000,42.39186000</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_bc7b67fdc07242568ce54a037323ec69">
+		<name>Foxos</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 350m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Foxos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Lanzada - Noalla (Santo Estevo)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 350m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9748" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9748</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>A Lanzada - Noalla (Santo Estevo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>350</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.873694,42.427138</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_65a7cc381d3d45438a2d643ed94b3d9c">
+		<name>Major</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 600m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Major</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 600m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9749" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9749</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>600</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.866583,42.413694</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_102a691a429d429eba7c9a75a2b4a3be">
+		<name>Montalvo</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 900m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Montalvo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 900m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9751" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9751</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>900</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.848194,42.398944</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b4dc5c4c24194402988c0ce18ac18b8d">
+		<name>Panadeira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 80m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Panadeira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sanxenxo - Padriñán (San Xenxo)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 80m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="https://www.turismo.gal/recurso?cod_rec=9761" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.turismo.gal/recurso?cod_rec=9761</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Sanxenxo - Padriñán (San Xenxo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>80</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.803876,42.400663</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9ed6e15e741d41ecacb9fbb613a3deba">
+		<name>Paxariñas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 100m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Paxariñas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paxariñas - Adina (Santa María)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 100m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9753" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9753</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Paxariñas - Adina (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>100</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.844083,42.391639</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_447a5a0e88524189ad9f8a62f52931e8">
+		<name>Pragueira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pragueira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10450" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10450</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.862528,42.409472</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_64430a0c0b9242d3804dbba207635116">
+		<name>Silgar</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 600m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Silgar</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sanxenxo - Padriñán (San Xenxo)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 600m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9757" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9757</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Sanxenxo - Padriñán (San Xenxo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>600</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.812917,42.401472</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_7da9faf387134c95aca0e6a33d269c32">
+		<name>A Punta</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Punta</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=17431" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=17431</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>200</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.697027,42.260028</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_7c7ee82ce4e34a0683d1b0fea182c828">
+		<name>Argazada</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 410m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Argazada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 410m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=30565" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=30565</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>410</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.776055,42.215944</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_14eff90ecd6c4f249e903e5e5bb5060d">
+		<name>Canido</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Canido</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Canido - Oia (San Miguel)<br/>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10127" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10127</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Canido - Oia (San Miguel)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.796805,42.194139</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9d6dac597f3b4a16a203b15a711d2c2a">
+		<name>Figueiras (Illas Cíes)</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Figueiras (Illas Cíes)</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Illas Cíes<br/>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10481" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10481</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Illas Cíes</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.900611,42.231083</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_26528f0cd073416ba638a944e78de05b">
+		<name>Fontaíña (A Sirenita)</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 280m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Fontaíña (A Sirenita)</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Breadouro - Coruxo (San Salvador)<br/>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 280m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10508" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10508</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Breadouro - Coruxo (San Salvador)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>280</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.786416,42.199555</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_02c1a51550ab46f78de149e88610d76b">
+		<name>O Vao</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 800m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Vao</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Fontela - Coruxo (San Salvador)<br/>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 800m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10126" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10126</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Fontela - Coruxo (San Salvador)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>800</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.792166,42.197222</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a1260e84a0364702896190fe068c3e3f">
+		<name>Os Muíños - Fortiñón</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 150m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Os Muíños - Fortiñón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Corveira - Saiáns (San Xurxo)<br/>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 150m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10514" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10514</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>A Corveira - Saiáns (San Xurxo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>150</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.813806,42.17461</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_353a79e9bfe74b16b0edd6f8be79f306">
+		<name>Samil</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 1.700m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Samil</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Samil - Navia (San Paio)<br/>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 1.700m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="https://www.turismo.gal/recurso?cod_rec=10125" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.turismo.gal/recurso?cod_rec=10125</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Samil - Navia (San Paio)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.700</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.775560,42.212410</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ebd98b8af18b4d658327d6d1dd418d04">
+		<name>Rodas (Illas Cíes)</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 1.300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Rodas (Illas Cíes)</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Illas Cíes<br/>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 1.300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10480" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10480</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Illas Cíes</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.902917,42.222916</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_5dacda884ed943718beeab7383d75a66">
+		<name>Tombo do Gato</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Tombo do Gato</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=30566" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=30566</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value></value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.775749,42.220083</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b5519aca7d0e4f539509bcb44a401d0e">
+		<name>Bamio</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 130m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Bamio</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Campanario - Bamio (San Xens)<br/>
+Vilagarcía de Arousa<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 130m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=11353" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=11353</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>O Campanario - Bamio (San Xens)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>130</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vilagarcía de Arousa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.7615,42.632694</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_afd2bebc4d2a4ec4a150272f849a154a">
+		<name>Preguntoiro</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Preguntoiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vilaxoán -  Sobrán (San Martiño)<br/>
+Vilagarcía de Arousa<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 200m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=11356" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=11356</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Vilaxoán -  Sobrán (San Martiño)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>200</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vilagarcía de Arousa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.790777,42.585916</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+<Folder id="id_-1565414741">
+	<name>Lugo</name>
+	<open>0</open>
+	<description>14 praias</description>
+	<Placemark id="id_69d6ccca51134afb8177aff9db81f657">
+		<name>A Marosa</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 300m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Marosa</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Burela (Santa María)<br/>
+Burela<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 300m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9841" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9841</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Burela (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>300</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Burela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.372333,43.67486</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_58bce20460f245b895fdf39ab3628d4b">
+		<name>Ril</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ril</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Burela (Santa María)<br/>
+Burela<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=258852442" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=258852442</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Burela (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value></value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Burela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.364583,43.671444</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f4e614fd96e84902bc3ec278be35db6f">
+		<name>O Torno</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 700m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Torno</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+San Cibrao - Lieiro (Santa María)<br/>
+Cervo<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 700m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10174" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10174</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>San Cibrao - Lieiro (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>700</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cervo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.438889,43.698333</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4c38b38f346d4df3be9160a08207e386">
+		<name>A Rapadoira</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 270m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Rapadoira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Foz - Foz (Santiago)<br/>
+Foz<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 270m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=9833" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=9833</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Foz - Foz (Santiago)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>270</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Foz</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.24855500,43.57202500</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_402f9b2f147e445cba6df20ba2bc2ec6">
+		<name>Areoura</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 120m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Areoura</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Foz<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 120m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/recurso?cod_rec=11411" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/recurso?cod_rec=11411</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>120</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Foz</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.34416600,43.64000000</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_feecab2683934f188978d299012118d1">
+		<name>As Polas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 280m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>As Polas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Foz<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 280m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10163" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10163</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>280</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Foz</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.318333,43.620277</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_85ec2174c1374fc8973864579f758369">
+		<name>Llás</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 760m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Llás</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Foz<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 760m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9836" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9836</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>760</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Foz</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.262778,43.580277</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4d35c57dd4134bc6bc6ae50ece08196a">
+		<name>Peizás</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 540m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Peizás</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Foz<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 540m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10161" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10161</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>540</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Foz</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.27861,43.5875</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e4dfe0f4c340495481e5cf699b22909c">
+		<name>A Praia das Catedrais</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Monumento Natural: 28,94 ha, das cales 20 ha son augas mariñas. LIC: 304,36 ha</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value></value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Praia das Catedrais</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Ribadeo<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Monumento Natural: 28,94 ha, das cales 20 ha son augas mariñas. LIC: 304,36 ha</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=32008" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value></value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=32008</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>Monumento Natural: 28,94 ha, das cales 20 ha son augas mariñas. LIC: 304,36 ha</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ribadeo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.155308,43.554221</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_604d45563b5448658fd74f8b36cfea11">
+		<name>Os Castros-Illas</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 500m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Os Castros-Illas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Rochela - A Devesa (Santalla)<br/>
+Ribadeo<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 500m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9823" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9823</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>A Rochela - A Devesa (Santalla)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>500</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ribadeo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.132955,43.55534</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_30f139ad566642b187da7b3506ee2605">
+		<name>Abrela</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 950m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Abrela</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Abrela - Suegos (Santa María)<br/>
+Vicedo, O<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 950m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="https://www.turismo.gal/recurso/-/detalle/9853" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>https://www.turismo.gal/recurso/-/detalle/9853</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Abrela - Suegos (Santa María)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>950</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vicedo, O</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.612778,43.701822</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e1c963209bcf4893b0eabf50b11a8725">
+		<name>Xilloi</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 940m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Xilloi</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Xilloi - O Vicedo (Santo Estevo)<br/>
+Vicedo, O<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 940m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=9852" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=9852</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Xilloi - O Vicedo (Santo Estevo)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>940</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vicedo, O</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.650277,43.743777</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f9f85eedf2ec4adc9fafd587c3a28aac">
+		<name>Area</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia resgardada
+, con area fina, e cunha lonxitude de 1.200m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia resgardada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Area</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Area - Faro (San Xiao)<br/>
+Viveiro<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia resgardada
+, con area fina, e cunha lonxitude de 1.200m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10146" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10146</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Area - Faro (San Xiao)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>1.200</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Viveiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.57611,43.694166</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_aef9042b44c9465b980e120a77a36480">
+		<name>Esteiro</name>
+		<ExtendedData>
+			<Data name="DescricionAreal">
+				<value>Praia aberta
+, con area fina, e cunha lonxitude de 400m</value>
+			</Data>
+			<Data name="OcupacionPraia">
+				<value></value>
+			</Data>
+			<Data name="TipoPraia">
+				<value>Praia aberta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Esteiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Ceranzos - Xuances (San Pedro)<br/>
+Xove<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Descrición do areal</strong>
+<ul>
+	<li>Praia aberta
+, con area fina, e cunha lonxitude de 400m</li>
+</ul></p>
+
+<p><strong>Información</strong>
+<ul>
+	<li><a href="http://www.turismo.gal/ficha-recurso?cod_rec=10148" style="color:#FFFFFF;">Páxina web</a></li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="TipoAreaPraia">
+				<value>Fina</value>
+			</Data>
+			<Data name="Web">
+				<value>http://www.turismo.gal/ficha-recurso?cod_rec=10148</value>
+			</Data>
+			<Data name="Enderezo">
+				<value>Ceranzos - Xuances (San Pedro)</value>
+			</Data>
+			<Data name="LonxitudePraia">
+				<value>400</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Xove</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.559139,43.711944</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+</Document>
+</kml>
