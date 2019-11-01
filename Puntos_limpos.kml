@@ -1,0 +1,6968 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<atom:author>
+		<atom:name>Xunta de Galicia</atom:name>
+	</atom:author>
+	<atom:link href="http://www.xunta.es" rel="related"/>
+	<name>Puntos Limpos</name>
+	<open>1</open>
+	<description>141 puntos limpos en Galicia</description>
+	<Style id="TemaXunta">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/schools.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>00B67F06</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>92E09E00</color>
+		</PolyStyle>
+		<LabelStyle>
+			<color>FFFFFFFF</color>
+		</LabelStyle>
+		<BalloonStyle>
+			<bgColor>FFB67F06</bgColor>
+			<textColor>FFFFFFFF</textColor>
+			<text>$[DescricionCE]</text>
+		</BalloonStyle>
+	</Style>
+	<ScreenOverlay>
+		<name>Xunta de Galicia</name>
+		<visibility>1</visibility>
+		<Icon>
+			<href>http://www.xunta.es/tema-portal-xunta/images/logoXuntaPe.png</href>
+		</Icon>
+		<overlayXY x="0.1" y="1.1" xunits="fraction" yunits="fraction"/>
+		<screenXY x="0.01" y="1" xunits="fraction" yunits="fraction"/>
+		<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+	</ScreenOverlay>
+<Folder id="id_1259029046">
+	<name>Ourense</name>
+	<open>0</open>
+	<description>23 puntos limpos</description>
+	<Placemark id="id_65407c0efd2e47288837c8ef44a51910">
+		<name>A Gudiña</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Gudiña, Crta. N-525</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Gudiña</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Gudiña, Crta. N-525<br/>
+A Gudiña<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 650 093 482</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 10 a 13:30 e os martes, venres e sábados de 15:30 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 10 a 13:30 e os martes, venres e sábados de 15:30 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>650 093 482</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Gudiña</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.12097461359538,42.05408601078693</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_d1ba847ac3a243bca07598e42f865252">
+		<name>A Peroxa</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Corneda</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Peroxa</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Corneda<br/>
+A Peroxa<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 206 916</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, martes, xoves e venres de 8 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, martes, xoves e venres de 8 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 206 916</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Peroxa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.794417260275573,42.45409615816062</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4f395ca585eb4410bb0eb424b81ccb98">
+		<name>A Pobra de Trives</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Trives</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Pobra de Trives</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Trives<br/>
+A Pobra de Trives<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 330 000</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 330 000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Pobra de Trives</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.252377078030268,42.35037945087839</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_325d179b935643999dedb62569dc356f">
+		<name>A Rúa</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Estrada de Roblido, a 3,5 Km de A Rúa</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Rúa</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Estrada de Roblido, a 3,5 Km de A Rúa<br/>
+A Rúa<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 630 450 681</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 10 a 14 e de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 10 a 14 e de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>630 450 681</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Rúa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.141468765315934,42.39235958091606</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8e79c3ed964b451491fb9aa27c705eec">
+		<name>Bande</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>O Condado (Estr. OU-411)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Bande</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Condado (Estr. OU-411)<br/>
+Bande<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 652 916 851</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns e mércores de 9 a 14 e sábados de 9 a 14 e de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns e mércores de 9 a 14 e sábados de 9 a 14 e de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>652 916 851</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Bande</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.984439969846552,42.03279659531281</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b543ac7a443c46e2a20c2aad67849674">
+		<name>Beade</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Fondal de Beade</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Beade</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Fondal de Beade<br/>
+Beade<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 484 700</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 10 a 13 e de 15 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 10 a 13 e de 15 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 484 700</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Beade</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.124839104490846,42.33432739319654</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_daf74bf0e6d2473390a3be08de538266">
+		<name>Calvos de Randín</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Portela, Penas Altas</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Calvos de Randín</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Portela, Penas Altas<br/>
+Calvos de Randín<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 330 000</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Xoves de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Xoves de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 330 000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Calvos de Randín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.894890827692809,41.95336010358654</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ea69e618e24d4171a1c6ffc00b043a4b">
+		<name>Castro Caldelas</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Camba, ao lado do campo de fútbol</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Castro Caldelas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Camba, ao lado do campo de fútbol<br/>
+Castro Caldelas<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 010 016 (Concello)</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De martes a venres de 9 a 14</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De martes a venres de 9 a 14</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 010 016 (Concello)</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Castro Caldelas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.415569982001614,42.36293943826357</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8cde1a7bf13541a581621d1e364a199b">
+		<name>Celanova</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parque Empresarial de Celanova</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Celanova</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parque Empresarial de Celanova<br/>
+Celanova<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 677 468 264</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10:30 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10:30 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>677 468 264</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Celanova</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.939768411859264,42.14223430789364</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_bd9a72e520944c6ab6940300ea9c2c46">
+		<name>Muíños</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>CV-42 Bande-Barxés</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Muíños</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+CV-42 Bande-Barxés<br/>
+Muíños<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 010 016</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, martes, xoves e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, martes, xoves e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 010 016</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Muíños</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.949662793141518,41.97724068828169</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_616d93fa76fa421e8adea988d477958c">
+		<name>O Barco de Valdeorras</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Viloira, (xunto á ITV)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Barco de Valdeorras</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Viloira, (xunto á ITV)<br/>
+O Barco de Valdeorras<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 320 138 / 699 491 960</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 10 a 13:30 e de 16 a 19:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 10 a 13:30 e de 16 a 19:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 320 138 / 699 491 960</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Barco de Valdeorras</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-6.973738244928807,42.41019566333547</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_eeb51897429f4d86bf659c56e5b70517">
+		<name>O Carballino (A Medela)</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Medela, a carón da canceira municipal</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Carballino (A Medela)</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Medela, a carón da canceira municipal<br/>
+O Carballiño<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 530 007</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Provisionalmente non operativo</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Provisionalmente non operativo</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 530 007</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Carballiño</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.106487710417378,42.45741003659602</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_183232ba1de64a9984dccbba8468362c">
+		<name>O Carballino (Seoane)</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Seoane</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Carballino (Seoane)</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Seoane<br/>
+O Carballiño<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 274 010</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9 a 14:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9 a 14:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 274 010</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Carballiño</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.034012469676785,42.45079102337991</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_7b70e469552e4f5ba61eb2bd4863d7d4">
+		<name>Ourense-Eiroás</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Vilar de As Tres, s/n. (a carón da canceira)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ourense-Eiroás</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vilar de As Tres, s/n. (a carón da canceira)<br/>
+Ourense<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 102 994</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10 a 14 e de 16 a 19 e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10 a 14 e de 16 a 19 e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 102 994</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ourense</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.87498572526358,42.3665076571209</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_27d6125d3512469b929a59a0acb7576d">
+		<name>Ourense-Santa Mariña</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Santa Mariña s/n. (a carón do cemiterio)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ourense-Santa Mariña</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Santa Mariña s/n. (a carón do cemiterio)<br/>
+Ourense<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 810 081</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Provisionalmente non operativo</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Provisionalmente non operativo</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 810 081</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ourense</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.813196368151425,42.31220415344485</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_cef3d70c2cb244f6a96128b811409d58">
+		<name>Pereiro de Aguiar</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Monte do Lombo, (Vilaboa-Sabadelle)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pereiro de Aguiar</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Monte do Lombo, (Vilaboa-Sabadelle)<br/>
+Pereiro de Aguiar, O<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 698 613 285</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10 a 14 e de 16 a 18:30 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10 a 14 e de 16 a 18:30 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>698 613 285</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Pereiro de Aguiar, O</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.806298693334356,42.35726327530227</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ab56c42fd44b4de99359606fe0767c83">
+		<name>San Cibrao das Viñas</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pol. Ind. San Cibrao das Viñas, Rúa 4</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>San Cibrao das Viñas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pol. Ind. San Cibrao das Viñas, Rúa 4<br/>
+San Cibrao das Viñas<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 648 613 285</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10 a 14 e de 16 a 18:30 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10 a 14 e de 16 a 18:30 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>648 613 285</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>San Cibrao das Viñas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.819649082252411,42.28558441705509</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_df5ad3c610d2498188f007d023a0ac8f">
+		<name>Verín</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pazos</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Verín</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pazos<br/>
+Verín<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 330 000</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 10 a 13 e de mércores a sábados de 16:30 a 20:15 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 10 a 13 e de mércores a sábados de 16:30 a 20:15 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 330 000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Verín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.464029534550782,41.92780291137202</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_da1f44a0b2904b0ab52f89f312537155">
+		<name>Vilamartín de Valdeorras</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Valdegodos</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Vilamartín de Valdeorras</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Valdegodos<br/>
+Vilamartín de Valdeorras<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 010 016 (Concello)</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, mércores e venres de 10:00 a 13:30</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, mércores e venres de 10:00 a 13:30</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 010 016 (Concello)</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vilamartín de Valdeorras</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.050353926370114,42.41207794826087</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_febbe9fb4bf14bfb96e588326c932bdd">
+		<name>Xinzo de Limia</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parque empresarial de Xinzo (parcela nº3)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Xinzo de Limia</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parque empresarial de Xinzo (parcela nº3)<br/>
+Xinzo de Limia<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 550 110</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mártes, mércores, venres e sábados de 9 a 14 e de 17 a 20 e os xoves de 17 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mártes, mércores, venres e sábados de 9 a 14 e de 17 a 20 e os xoves de 17 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 550 110</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Xinzo de Limia</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.723339416779647,42.07909021811557</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_840d88d15e524a75b002a2b2fdd796c0">
+		<name>Xunqueira de Espadañedo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Regatas</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Xunqueira de Espadañedo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Regatas<br/>
+Xunqueira de Espadañedo<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 516 784</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a xoves de 10 a 14 e de 17 a 21 horas e os sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a xoves de 10 a 14 e de 17 a 21 horas e os sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 516 784</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Xunqueira de Espadañedo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.631221377534287,42.31084564504751</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_323db31d3c5a4e879595e12799c318f3">
+		<name>A Veiga</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Rúa Entrecaldeiras s/n, A VEIGA (Tras o colexio)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Veiga</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Entrecaldeiras s/n, A VEIGA (Tras o colexio)<br/>
+A Veiga<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 317 689</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes, xoves e sábados de 10 a 13 horas.</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes, xoves e sábados de 10 a 13 horas.</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 317 689</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Veiga</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.019373,42.247496</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e8ea6611d7344dc393d97c9d6eb05325">
+		<name>Vilar de Santos</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parque Empresarial Santa Marta, Vial 1</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Vilar de Santos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parque Empresarial Santa Marta, Vial 1<br/>
+Vilar de Santos<br/>
+Ourense
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 988 317 689</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>988 317 689</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Ourense</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vilar de Santos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.807571702003172,42.0864713161051</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+<Folder id="id_1578743593">
+	<name>Pontevedra</name>
+	<open>0</open>
+	<description>33 puntos limpos</description>
+	<Placemark id="id_bf8b653cf37042f19e265f283536a94a">
+		<name>A Cañiza</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>O Maio, ao lado do Pol. Ind. de Ribadil</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Cañiza</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Maio, ao lado do Pol. Ind. de Ribadil<br/>
+A Cañiza<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 639 023 732</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 14 a 21 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 14 a 21 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>639 023 732</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Cañiza</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.250618237953672,42.22301498138808</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_331a2e54f1dd435db5ff180e8275d5df">
+		<name>A Estrada</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Ouzande</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Estrada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Ouzande<br/>
+A Estrada<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 649 480 623</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Xoves e venres de 9 a 13 e os sábados de 10 a 13 e de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Xoves e venres de 9 a 13 e os sábados de 10 a 13 e de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>649 480 623</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Estrada</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.505674046328766,42.67564200946118</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_98abf9ede9574543ac73b91fd6d5210b">
+		<name>A Guarda</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Cruz de Sangriña, parroquia de Salcidos</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Guarda</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Cruz de Sangriña, parroquia de Salcidos<br/>
+A Guarda<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 690 016 976</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 9 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 9 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>690 016 976</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Guarda</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.859659416927904,41.90060103285651</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f5c3578b5df0455483d7d954dc13cd61">
+		<name>A Illa de Arousa</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Monte das Formigas, zona das Aceñas</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Illa de Arousa</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Monte das Formigas, zona das Aceñas<br/>
+A Illa de Arousa<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 527 080</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Xoves de 9 a 14 e sábados de 9 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Xoves de 9 a 14 e sábados de 9 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 527 080</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Illa de Arousa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.868160504556009,42.54850932593738</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8d8add7a1ea14cba843157f7095778bf">
+		<name>A Lama</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial do Racelo</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Lama</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial do Racelo<br/>
+A Lama<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 696 046 191</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 8 a 14 e sábados de 8 a 11 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 8 a 14 e sábados de 8 a 11 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>696 046 191</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Lama</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.448932567284704,42.41261247393177</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_71e3804af17641ec8393fd853effa4ee">
+		<name>Arbo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parroquia de Arbo, (campo de fútbol)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Arbo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parroquia de Arbo, (campo de fútbol)<br/>
+Arbo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 665 000</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores e sábados de 9 a 13:30 e de 16:30 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores e sábados de 9 a 13:30 e de 16:30 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 665 000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arbo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.303367282686542,42.10640200254299</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_31dff7de47a045748476c9c63596dfe9">
+		<name>As Neves</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Monte veciñal Tortoreos</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>As Neves</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Monte veciñal Tortoreos<br/>
+localidade<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 648 038</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 15:30 a 18:30 e sábados de 9:30 a 13:30</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 15:30 a 18:30 e sábados de 9:30 a 13:30</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 648 038</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>localidade</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.412008469793879,42.09583382131014</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_61a6bb9bb5d540749e3373c47bc02449">
+		<name>Baiona</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Santa María de Baíña</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Baiona</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Santa María de Baíña<br/>
+Baiona<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 608 518 114</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10:00 a 14:00, mércores e sábados de 10 a 14 e de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10:00 a 14:00, mércores e sábados de 10 a 14 e de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>608 518 114</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Baiona</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.846818325566877,42.11053076532471</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c1c1faec032240449305ffb270863bc7">
+		<name>Cambados</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial Sete Pías</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cambados</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial Sete Pías<br/>
+Cambados<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 670 990 485</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, mércores e sábados de 8 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, mércores e sábados de 8 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>670 990 485</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cambados</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.77853499679264,42.52556551212488</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_057122c61f9343958c61f4fea0511503">
+		<name>Cangas</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial Castiñeiras</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cangas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial Castiñeiras<br/>
+Cangas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 666 595 159</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes e sábados de 9 a 13 e xoves de 15 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes e sábados de 9 a 13 e xoves de 15 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>666 595 159</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cangas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.790559652647685,42.30290765941078</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_bb959312a43d453d920bc611b4563031">
+		<name>Cerdedo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>San Martiño de Figueroa</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cerdedo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+San Martiño de Figueroa<br/>
+Cerdedo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 753 006</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 9 a 14 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 9 a 14 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 753 006</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cerdedo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.408604423134269,42.53435956305219</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_3be4352061f74bd9a8222ef13299ad87">
+		<name>Covelo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Ao lado do campo de fútbol</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Covelo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Ao lado do campo de fútbol<br/>
+Covelo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 629 666 333</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Sábados de 9:30 a 13:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Sábados de 9:30 a 13:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>629 666 333</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Covelo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.364644821537373,42.23354920917484</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4c09a88c54094054bbf381f9fb4c0038">
+		<name>Forcarei</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial de Cachafeiro</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Forcarei</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial de Cachafeiro<br/>
+Forcarei<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 755 219</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Venres de 10 a 13 e sábados de 10 a 15 e de 16:30 a 19:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Venres de 10 a 13 e sábados de 10 a 15 e de 16:30 a 19:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 755 219</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Forcarei</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.335687204588522,42.56962589396048</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_008d82c420e54bf1b088942e52967d5b">
+		<name>Gondomar</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Pasaxe, parroquia de Vincios</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Gondomar</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Pasaxe, parroquia de Vincios<br/>
+Gondomar<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 628 153 504</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 16 a 19 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 16 a 19 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>628 153 504</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Gondomar</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.724875555934194,42.15241250139538</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0c098c7c6de14e00bb85d3a5eb7a6cde">
+		<name>Illa ecolóxica de Rodeiro</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Gavieiras s/n</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Illa ecolóxica de Rodeiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Gavieiras s/n<br/>
+Rodeiro<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 790 185</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Previa chamada telefónica</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Previa chamada telefónica</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 790 185</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Rodeiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.96914417763392,42.6483396377601</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_58005b2195624388a5e8676dcb8b9e91">
+		<name>Lalín</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono empresarial de Lalín</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Lalín</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono empresarial de Lalín<br/>
+Lalín<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 794 420</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9:30 a 14 e sábados de 11 a 15 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9:30 a 14 e sábados de 11 a 15 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 794 420</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Lalín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.149437684787532,42.67618656740837</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0a0d408d855944a0a7cbb0822c673620">
+		<name>Meaño</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Área recreativa A Toxa</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Meaño</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Área recreativa A Toxa<br/>
+Meaño<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 747 585</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 11:30 a 14 e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 11:30 a 14 e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 747 585</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Meaño</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.77766288302025,42.44398458303061</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9122c5e650ed40ba9da6e7d578c7e1be">
+		<name>Mondariz-Balneario</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A carón do cemiterio</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Mondariz-Balneario</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A carón do cemiterio<br/>
+Mondariz-Balneario<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 656 136</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Xoves de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Xoves de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 656 136</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Mondariz-Balneario</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.480432505796426,42.22200655377549</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_21a5b8d499394fe0890a83689dc6344d">
+		<name>Mos</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parque Empr. da Veigadaña, P CES-2</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Mos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parque Empr. da Veigadaña, P CES-2<br/>
+Mos<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 097 037</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes e xoves de 10 a 14 e de 16:30 a 20:30 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes e xoves de 10 a 14 e de 16:30 a 20:30 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 097 037</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Mos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.613245772777001,42.19323829173168</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_07c500d942384f6f9e3907439c922b70">
+		<name>Nigrán</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Camiño de Camesella, ao lado da EDAR</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Nigrán</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Camiño de Camesella, ao lado da EDAR<br/>
+Nigrán<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 646 156 583</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 16:00 a 19:00, venres e sábados de 10:00 a 14:00</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 16:00 a 19:00, venres e sábados de 10:00 a 14:00</value>
+			</Data>
+			<Data name="Telefono">
+				<value>646 156 583</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Nigrán</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.798111,42.128319</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_360c2af5846b485f8759a54a949534fd">
+		<name>O Grove</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Zapateira</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Grove</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Zapateira<br/>
+O Grove<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 670 529 844</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 17 a 21 horas e sábados de 10 a 14 e de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 17 a 21 horas e sábados de 10 a 14 e de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>670 529 844</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Grove</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.885221026359298,42.47396123334339</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_55aeef7778734ef0a8c0a3f283f9811c">
+		<name>O Porriño</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial A Granxa (Budiño)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Porriño</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial A Granxa (Budiño)<br/>
+O Porriño<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 342 147</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10 a 14 e os luns tamén de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10 a 14 e os luns tamén de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 342 147</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Porriño</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.615958531028834,42.11479711471289</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c385d006071e4bedab3fd656ca778584">
+		<name>O Rosal</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parroquia de Santa Mariña</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Rosal</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parroquia de Santa Mariña<br/>
+O Rosal<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 625 000</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes e xoves de 15 a 19 horas e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes e xoves de 15 a 19 horas e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 625 000</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Rosal</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.82191841784465,41.92639204068617</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f7f432ad335347ccb540d971f918d653">
+		<name>Ponteareas</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parque móbil do Concello, (Areas)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ponteareas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parque móbil do Concello, (Areas)<br/>
+Ponteareas<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 640 307</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 8:30 a 13:45 e de 16 a 18 e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 8:30 a 13:45 e de 16 a 18 e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 640 307</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ponteareas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.532648383580575,42.16896314755427</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_71ed6f576c35444c8b35a07724588d0c">
+		<name>Pontevedra - entidade privada</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono do Campiño</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pontevedra - entidade privada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono do Campiño<br/>
+Pontevedra<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 850 225</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De martes a venres de 9 a 14 e de 16 a 19 e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De martes a venres de 9 a 14 e de 16 a 19 e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 850 225</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Pontevedra</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.58457693240525,42.4115440889099</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_015bc2f46ccc43358e88f2c05b66fcd7">
+		<name>Ribadumia</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parroquia de Leiro, (campo de fútbol)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ribadumia</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parroquia de Leiro, (campo de fútbol)<br/>
+Ribadumia<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 610 218 334</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>610 218 334</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ribadumia</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.748613262183421,42.52213428239966</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_3e8f1cf4d9a745638b10e0f31e32ce64">
+		<name>Sanxenxo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>As Cerexeiras (Padriñán)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Sanxenxo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+As Cerexeiras (Padriñán)<br/>
+Sanxenxo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 680 842</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De martes a sábados de 10 a 14 e de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De martes a sábados de 10 a 14 e de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 680 842</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sanxenxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.804259840700588,42.41174744019281</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_fa7d47fa32ae4eecbddf603dd9ca3093">
+		<name>Silleda</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Vilanova</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Silleda</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vilanova<br/>
+Silleda<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 660 665 531</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>660 665 531</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Silleda</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.261253985272436,42.70711775334132</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_1c79c2d5a4ee433aa4de1da88df16842">
+		<name>Tui</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Gándara (Guillarei)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Tui</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Gándara (Guillarei)<br/>
+Tui<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 672 306 422</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 8 a 14:30 e sábados de 9 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 8 a 14:30 e sábados de 9 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>672 306 422</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Tui</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.629963701625057,42.07496944426827</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9d5ffc79c97e4d4ab3c7916092305f72">
+		<name>Valga</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Coto Campaña</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Valga</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Coto Campaña<br/>
+Valga<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 610420207</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 8 a 13 e de 15 a 19 e sábados de 9:30 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 8 a 13 e de 15 a 19 e sábados de 9:30 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>610420207</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Valga</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.672164454398786,42.71033219357627</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b1b453e24dd246fb88117724f3e08fcb">
+		<name>Vigo - entidade privada</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Camiño Caramuxo, 65 - Pol. Ind. Cíes</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Vigo - entidade privada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Camiño Caramuxo, 65 - Pol. Ind. Cíes<br/>
+Vigo<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 986 422 355</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 8 a 14 e de 16 a 20 e sábados de 9 a12 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 8 a 14 e de 16 a 20 e sábados de 9 a12 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>986 422 355</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vigo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.760326747631787,42.20348147936275</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_11e5aac4f93f4971b04f0cb73cd1d75d">
+		<name>Vila de Cruces</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pol. Agroforestal de Aguillóns (Cumeiro)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Vila de Cruces</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pol. Agroforestal de Aguillóns (Cumeiro)<br/>
+Vila de Cruces<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 667 493 080</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Venres de 9 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Venres de 9 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>667 493 080</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vila de Cruces</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.188939314159708,42.79782245063138</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8a9541577023465997ab76edeb81d8da">
+		<name>Vilagarcía de Arousa</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pinar do Rei</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Vilagarcía de Arousa</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pinar do Rei<br/>
+Vilagarcía de Arousa<br/>
+Pontevedra
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 670 508 489</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 10 a 13:30 e de 16 a 20 horas e domingos de 10 a 13.30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 10 a 13:30 e de 16 a 20 horas e domingos de 10 a 13.30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>670 508 489</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Pontevedra</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vilagarcía de Arousa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.757807364035461,42.61956265096648</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+<Folder id="id_154765669">
+	<name>A Coruña</name>
+	<open>0</open>
+	<description>54 puntos limpos</description>
+	<Placemark id="id_2d2d48ecb527435782a9f3ff4a5822f0">
+		<name>A Baña</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parroquia de Lañas</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Baña</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parroquia de Lañas<br/>
+A Baña<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 629 642 177</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábado de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábado de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>629 642 177</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Baña</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.70647321755717,42.9625106273453</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_30dbb92bca3a4fb5bf048a291cf386a9">
+		<name>A Coruña - Ronda de Outeiro Concello</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Ronda de Outeiro s/n (á altura da UNED)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Coruña - Ronda de Outeiro Concello</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Ronda de Outeiro s/n (á altura da UNED)<br/>
+A Coruña<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 275 050</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 11:30 a 14 e de 17 a 21 horas. Mércores, xoves e venres de 11:30 a 14 e de 17 a 21 horas. Sábados de 10 a 14 e de 17 a 21 horas e domingos de 10 a 14</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 11:30 a 14 e de 17 a 21 horas. Mércores, xoves e venres de 11:30 a 14 e de 17 a 21 horas. Sábados de 10 a 14 e de 17 a 21 horas e domingos de 10 a 14</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 275 050</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Coruña</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.425335799373396,43.37070431050028</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_922e586786764cd7ad48128281b0b053">
+		<name>A Coruña - Sta. Teresa de Journet Concello</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>S. Teresa de Journet - Urbanización Los Arces - Eirís</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Coruña - Sta. Teresa de Journet Concello</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+S. Teresa de Journet - Urbanización Los Arces - Eirís<br/>
+A Coruña<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 170 004</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De martes a venres, de 11:30 a 14 e de 17 a 21 horas. Sábados de 10 a 14 e de 17 a 21 horas e domingos de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De martes a venres, de 11:30 a 14 e de 17 a 21 horas. Sábados de 10 a 14 e de 17 a 21 horas e domingos de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 170 004</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Coruña</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.394611543140922,43.33883963331304</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9d04755f27414d2c9d716585eddaa008">
+		<name>A Laracha</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Lugar Vilaño, ao lado da depuradora</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Laracha</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Lugar Vilaño, ao lado da depuradora<br/>
+A Laracha<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 680 103 386</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, mércores e venres, de 16 a 20 horas. Sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, mércores e venres, de 16 a 20 horas. Sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>680 103 386</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Laracha</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.589216383409854,43.24161839920019</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_dc1721d0a58f46ac9b68558bd3f23124">
+		<name>A Pobra do Caramiñal</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono industrial La Tomada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Pobra do Caramiñal</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono industrial La Tomada<br/>
+A Pobra do Caramiñal<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 830 250</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábado, de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábado, de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 830 250</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Pobra do Caramiñal</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.959181117616273,42.60239628606672</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_7bf57f23056c497aa40ae04e300f6df5">
+		<name>Abegondo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Atrio s/n, Vilanova</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Abegondo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Atrio s/n, Vilanova<br/>
+Abegondo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 266 081</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas. De sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas. De sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 266 081</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Abegondo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.300955878706686,43.22005476093403</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e8dd277e63004722b2bf69e05497eb44">
+		<name>Ames</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Rúa das Hedras Nº30</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ames</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa das Hedras Nº30<br/>
+Ames<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 536 688</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres, de 10 a 14 e de 16 a 18 horas. Se sábados de 9 a 14 e de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres, de 10 a 14 e de 16 a 18 horas. Se sábados de 9 a 14 e de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 536 688</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ames</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.581600612348787,42.85194444444445</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_da4a5e1c92f44053a050f4fd1938766d">
+		<name>Arteixo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pol. Ind. De Sabón. Av. Arsenio Iglesias</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Arteixo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pol. Ind. De Sabón. Av. Arsenio Iglesias<br/>
+Arteixo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 265 919</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 265 919</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arteixo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.511008368187575,43.31737901499436</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6af464f9df7546f88f73d424db6e2599">
+		<name>Arzúa</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono industrial de Arzúa, Rúa dos Carpinteiros</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Arzúa</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono industrial de Arzúa, Rúa dos Carpinteiros<br/>
+Arzúa<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 571 241</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, mércores e venres, de 10 a 14 horas e sábados de 10 a 18 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, mércores e venres, de 10 a 14 horas e sábados de 10 a 18 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 571 241</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Arzúa</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.174648898316862,42.93213385939223</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_99151b56c649423bb9278cc20f48241d">
+		<name>As Pontes de García Rodríguez</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Lugar dos Alimpadorios</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>As Pontes de García Rodríguez</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Lugar dos Alimpadorios<br/>
+As Pontes de García Rodríguez<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 667 129 360</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 11 a 14 e de 17 a 20 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 11 a 14 e de 17 a 20 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>667 129 360</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>As Pontes de García Rodríguez</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.857149678761619,43.46010832920842</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f784bf6196a44bf9a21cf5c6dd6a1345">
+		<name>As Somozas</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono industrial de As Somozas</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>As Somozas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono industrial de As Somozas<br/>
+As Somozas<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 404 101</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Venres, de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Venres, de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 404 101</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>As Somozas</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.926991057261004,43.53311598169275</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0fa2336777cd4043bb17e4393667a217">
+		<name>Bergondo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono de Bergondo, Nave C15B</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Bergondo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono de Bergondo, Nave C15B<br/>
+Bergondo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 268145</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 268145</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Bergondo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.266644583738531,43.31476914638022</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e30d26a1eca047c593d27588163f0a23">
+		<name>Betanzos</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono de Piadela, Lugar de Viuxa, s/n</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Betanzos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono de Piadela, Lugar de Viuxa, s/n<br/>
+Betanzos<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 266252</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 266252</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Betanzos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.234097172923304,43.27301031448249</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_84a6b97d0a484326b1b3353808f7176d">
+		<name>Boiro</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial Espiñeira</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Boiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial Espiñeira<br/>
+Boiro<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 838 908</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De martes a sábados de 10 a 14 horas e os venres e sábados tamén de 16 a 10 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De martes a sábados de 10 a 14 horas e os venres e sábados tamén de 16 a 10 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 838 908</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.881020343475193,42.66017057103056</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c48d0c0be4374666a14c42beab04e802">
+		<name>Boqueixón</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Sergude</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Boqueixón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Sergude<br/>
+Boqueixón<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 616 440 465</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Sábados de 10 a 14 e de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Sábados de 10 a 14 e de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>616 440 465</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Boqueixón</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.478887469223935,42.83004087087137</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_837a05a05b604f6d8467fbf69722859a">
+		<name>Cambre</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pol. Espírtu Santo, Lugar Prado Bello, s/n</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cambre</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pol. Espírtu Santo, Lugar Prado Bello, s/n<br/>
+Cambre<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 266 027</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 266 027</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cambre</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.292127463740478,43.3051500423768</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e296cb63bb14473abaf5243a690aae85">
+		<name>Carballo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial Bertoa</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Carballo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial Bertoa<br/>
+Carballo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 618 743 863</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Xoves e sábados de 10 a 13 e de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Xoves e sábados de 10 a 13 e de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>618 743 863</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Carballo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.688521814089361,43.23582664829422</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8522a88a38ec49e8a3f74c6dbe75ad3e">
+		<name>Carnota</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pedrafigueira</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Carnota</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pedrafigueira<br/>
+Carnota<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 857 132</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes de 10 a 14 horas, mércores de 15 a 19 horas, venres de 10 a 14 horas e sábados de 10 a 14 e de 15 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes de 10 a 14 horas, mércores de 15 a 19 horas, venres de 10 a 14 horas e sábados de 10 a 14 e de 15 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 857 132</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Carnota</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-9.085603943877953,42.83478165630432</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_aa6af6a2459a4415a3898d218eaaa23f">
+		<name>Carral</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pol. Os Capelos, R/ da Industria, 25 Bis</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Carral</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pol. Os Capelos, R/ da Industria, 25 Bis<br/>
+Carral<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 266 033</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 266 033</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Carral</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.355461535598259,43.24250552926574</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c378d0b245284e6abc9ee2323de8cfe8">
+		<name>Cedeira</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parroquia de Piñeiro</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cedeira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parroquia de Piñeiro<br/>
+Cedeira<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 605 028 892</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 15:30 a 19 horas e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 15:30 a 19 horas e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>605 028 892</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cedeira</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.043162114512818,43.66850170759975</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_d5754d46d7694f01968ee2af503d7820">
+		<name>Cerceda</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Lugar de Acevedo s/n</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cerceda</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Lugar de Acevedo s/n<br/>
+Cerceda<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 685 001</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 16 a 20 horas e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 16 a 20 horas e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 685 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cerceda</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.469552134144172,43.17548758772063</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_11ff5f42fdce4d05a62451a0d3dc65fe">
+		<name>Culleredo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Pol. de Ledoño, Saída Ledoño Autovía A-6</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Culleredo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Pol. de Ledoño, Saída Ledoño Autovía A-6<br/>
+Culleredo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 266 341</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 266 341</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Culleredo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.402912482766574,43.2751389545648</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_3a6ed2b39b304bbcb7bfdfac04035a0e">
+		<name>Curtis</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial de Teixeiro - Rúa D</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Curtis</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial de Teixeiro - Rúa D<br/>
+Curtis<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 789 852</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábado de 10 a 14:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábado de 10 a 14:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 789 852</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Curtis</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.007578028671524,43.15764957782351</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_39a9556a2d5a4ef6be4f431513b1ceff">
+		<name>Ferrol - entidade privada</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Estrada de Catabois (Km 3,7)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ferrol - entidade privada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Estrada de Catabois (Km 3,7)<br/>
+Ferrol<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 325 139</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10 a 14 e de 17 a 19:30 horas e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10 a 14 e de 17 a 19:30 horas e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 325 139</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ferrol</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.220970319737093,43.51737866157388</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_856758fa5f554fc2963e46ee3ad14eee">
+		<name>Mazaricos</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Chacin, Pino do Val</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Mazaricos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Chacin, Pino do Val<br/>
+Mazaricos<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 608 583 427</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes e sábados de 9 a 14 horas e os xoves de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes e sábados de 9 a 14 horas e os xoves de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>608 583 427</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Mazaricos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.957926257747319,42.91745336287527</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_cbfb992bccc6418485c0c2b59bb160c5">
+		<name>Melide</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parque empresarial "A Madalena", Rúa 3</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Melide</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parque empresarial "A Madalena", Rúa 3<br/>
+Melide<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 505 003</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, mércores e sábados de 10 a 14 horas e martes e venres de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, mércores e sábados de 10 a 14 horas e martes e venres de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 505 003</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Melide</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.981945008800659,42.89550050169433</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b2348aa5667f4260920a7c1973c56bf2">
+		<name>Miño</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Lugar de Gallamonde (campo de fútbol)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Miño</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Lugar de Gallamonde (campo de fútbol)<br/>
+Miño<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 666 449 588</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, xoves e sábados de 10 a 13 horas e os martes, mércores e venres de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, xoves e sábados de 10 a 13 horas e os martes, mércores e venres de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>666 449 588</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Miño</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.188269074871988,43.35081084110819</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ce339118c52c4873abe903f7bcb2faa2">
+		<name>Muros</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>As Lombas do Pedreiro (Serres)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Muros</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+As Lombas do Pedreiro (Serres)<br/>
+Muros<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 826 050</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes, mércores e venres de 10 a 14 horas e os sábados de 10 a 14 e e 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes, mércores e venres de 10 a 14 horas e os sábados de 10 a 14 e e 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 826 050</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Muros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-9.056301070621398,42.80108486206635</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ce0f6bc8201c486da8f042c2e48eeb81">
+		<name>Muxía</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Moraime</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Muxía</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Moraime<br/>
+Muxía<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 742 001</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 10 a 13 e de 16 a 18 horas e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 10 a 13 e de 16 a 18 horas e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 742 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Muxía</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-9.189439955801467,43.08040239818776</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_88f80ff528474456933a586735a4df82">
+		<name>Narón</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono industrial Río do Pozo</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Narón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono industrial Río do Pozo<br/>
+Narón<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 337 700</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9 a 13 e de 16 a 19 horas e os sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9 a 13 e de 16 a 19 horas e os sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 337 700</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Narón</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.191888044959702,43.53653876576569</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a750ec3849854912a92a98b137054ac6">
+		<name>Noia</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial Augalevada</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Noia</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial Augalevada<br/>
+Noia<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 638 513 671</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9 a 13 horas e sábados de 17 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9 a 13 horas e sábados de 17 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>638 513 671</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Noia</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.875791403035823,42.80032013547093</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_5393d2c6abf3416593871d2a6a2010d7">
+		<name>O Pino</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Agra Nova, Arca</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Pino</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Agra Nova, Arca<br/>
+O Pino<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 693 072</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns e mércores de 18:30 a 20:30 horas e sábados de 12 a 14 e de 15 a 21 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns e mércores de 18:30 a 20:30 horas e sábados de 12 a 14 e de 15 a 21 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 693 072</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Pino</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.367742588818684,42.90957020992569</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_56e009c6e71d42b6a9600a528e3ff3e6">
+		<name>Oleiros</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono de Iñás, Lugar Fontedouro</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Oleiros</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono de Iñás, Lugar Fontedouro<br/>
+Oleiros<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 607 266 257</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>607 266 257</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Oleiros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.315048456664718,43.32510366244353</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8f51031b80c44302a83a047029bdfb78">
+		<name>Ordes</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Lugar do Balado</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ordes</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Lugar do Balado<br/>
+Ordes<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 669 841 457</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 16 a 20 horas e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 16 a 20 horas e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>669 841 457</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ordes</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.424156237392305,43.06592775420382</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_2affcff0b8d442f5814fb4d6b00c435d">
+		<name>Illa ecolóxica de Ortigueira</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono industrial de Cuiña</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Illa ecolóxica de Ortigueira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono industrial de Cuiña<br/>
+Ortigueira<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 400 000 (Concello)</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes, xoves e sábados de 9 a 13 e de 15 a 18 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes, xoves e sábados de 9 a 13 e de 15 a 18 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 400 000 (Concello)</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ortigueira</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.844272124222984,43.65954527181571</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_95106214152842febfb6669cfe686001">
+		<name>Outes</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Cepa, San Orente</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Outes</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Cepa, San Orente<br/>
+Outes<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 850 003</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes e xoves de 18 a 20 horas e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes e xoves de 18 a 20 horas e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 850 003</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Outes</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.907422985115312,42.86007466575762</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_add35da8e61846dab05710b3bf29c6d1">
+		<name>Oza dos Ríos</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Quintela</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Oza dos Ríos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Quintela<br/>
+Oza dos Ríos<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 659 329 268</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De martes a sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De martes a sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>659 329 268</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Oza dos Ríos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.201401597463534,43.22146215263884</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0c5d9f23788747698e8b30ba36300906">
+		<name>Padrón</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Picaraña, estrada Escravitude - Rois</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Padrón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Picaraña, estrada Escravitude - Rois<br/>
+Padrón<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 810 451</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10 a 14 e sábados de 10 a 12 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10 a 14 e sábados de 10 a 12 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 810 451</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Padrón</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.661955053948921,42.78674423537795</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_75fab0abdb3b47a4ba37748f695c4be8">
+		<name>Ponteceso</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono industrial de Tella</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ponteceso</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono industrial de Tella<br/>
+Ponteceso<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 718 253</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10 a 13 e de xoves a sábados de 15 a 18 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10 a 13 e de xoves a sábados de 15 a 18 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 718 253</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ponteceso</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.870438135065793,43.25474838102975</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4e0f66dfc406421b8ae5c33741d1b322">
+		<name>Pontedeume</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industria de Tella, Andrade</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pontedeume</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industria de Tella, Andrade<br/>
+Pontedeume<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 430 591</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9 a 14 e sábados de 11 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9 a 14 e sábados de 11 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 430 591</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Pontedeume</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.169157223217914,43.38974319143418</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ece281b23cf744d889f4707914d21dca">
+		<name>Porto do Son</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Cadeiras (parroquia de Nebra)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Porto do Son</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Cadeiras (parroquia de Nebra)<br/>
+Porto do Son<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 867 412</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 15 a 19 e venres e sábados de 10 a 14 e de 15 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 15 a 19 e venres e sábados de 10 a 14 e de 15 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 867 412</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Porto do Son</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.958972999555909,42.73867206117029</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0e82506b664a4a8588da57e17bc465ac">
+		<name>Rianxo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Lugar A Barraca - Asados</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Rianxo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Lugar A Barraca - Asados<br/>
+Rianxo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 860 075</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 14, mércores e venres de 15 a 19 e sábados de 10 a 14 e de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 14, mércores e venres de 15 a 19 e sábados de 10 a 14 e de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 860 075</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Rianxo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.80713422054647,42.67008611111111</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_ab4ddc4b673e416f8c7c2a7e1efb8f6b">
+		<name>Ribeira</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Estrrada San Alberto s/n, Pol. Ind. de Xarás</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ribeira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Estrrada San Alberto s/n, Pol. Ind. de Xarás<br/>
+Ribeira<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 871 808</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De lus a venres de 9 a 13 e de 16 a 19:30 e sábados de 9:30 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De lus a venres de 9 a 13 e de 16 a 19:30 e sábados de 9:30 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 871 808</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ribeira</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.994839977971537,42.57644011214629</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_cd14a5a293da45948cce45a431d10652">
+		<name>Santa Comba</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial de Santa Comba</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Santa Comba</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial de Santa Comba<br/>
+Santa Comba<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 690 728 601</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 8:30 a 14:30 e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 8:30 a 14:30 e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>690 728 601</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Santa Comba</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.793684465363848,43.02897920903641</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8556c95a554f4eb8bb86a240c5e03a1b">
+		<name>Santiago de Compostela - Piñor</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Piñor, Parroquia de Figueiras</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Santiago de Compostela - Piñor</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Piñor, Parroquia de Figueiras<br/>
+Santiago de Compostela<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 620 148 310</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10:50 a 14 e de 16:30 a 19:30 e sábados de 9:50 a 14 e de 16:30 a 20:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10:50 a 14 e de 16:30 a 19:30 e sábados de 9:50 a 14 e de 16:30 a 20:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>620 148 310</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Santiago de Compostela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.604883812910209,42.90271210528291</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9afd15e64aa14d8cb4abb9ea46c2f3d9">
+		<name>Santiago - Polígono do Tambre</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Vía Edison Nº 46</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Santiago - Polígono do Tambre</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Vía Edison Nº 46<br/>
+Santiago de Compostela<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 565 469</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10:50 a 14 e de 16:30 a 19:30 e sábados de 9:50 a 14 e de 16:30 a 20:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10:50 a 14 e de 16:30 a 19:30 e sábados de 9:50 a 14 e de 16:30 a 20:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 565 469</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Santiago de Compostela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.520557325728479,42.91478888888889</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_41ece287e4ba43e4b43cdeda7c642671">
+		<name>Sobrado dos Monxes</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Monte Auga Lavada, Parroquia de Porta</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Sobrado dos Monxes</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Monte Auga Lavada, Parroquia de Porta<br/>
+Sobrado dos Monxes<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 660 089 897</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Provisionalmente non operativo</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Provisionalmente non operativo</value>
+			</Data>
+			<Data name="Telefono">
+				<value>660 089 897</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sobrado dos Monxes</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.012096987759504,43.04981032562399</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0e6e4d18c4ba49978e02b3e67eac46a0">
+		<name>Teo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Lagoa, estrada da Ramallosa a Louo</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Teo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Lagoa, estrada da Ramallosa a Louo<br/>
+Teo<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 687 825 130</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De martes venres de 10 a 13 e de 17 a 20 e sábados de 10 a 13 e de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De martes venres de 10 a 13 e de 17 a 20 e sábados de 10 a 13 e de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>687 825 130</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Teo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.566615567566892,42.80536374235356</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a3c2770bd91b41ab939e64359432a0d6">
+		<name>Val do Dubra</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Paraxe Canteiras de Corduvies, Bembibre</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Val do Dubra</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Paraxe Canteiras de Corduvies, Bembibre<br/>
+Val do Dubra<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 659 496 694</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 16 a 20 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 16 a 20 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>659 496 694</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Val do Dubra</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.663526744761578,43.01701666666666</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_67d9856817ad46c09c0a3dc9c21cea56">
+		<name>Vedra</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Fornelos</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Vedra</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Fornelos<br/>
+Vedra<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 814 612</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes de 10 a 14 e de 16 a 19 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes de 10 a 14 e de 16 a 19 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 814 612</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vedra</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.463375767099883,42.77237288828179</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_7b26cba9681b40f19756ed1c2b093e05">
+		<name>Negreira</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial de Covas</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Negreira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial de Covas<br/>
+Negreira<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 664 404 347</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9:00 a 13:00 e sábados de 10:00 a 14:00</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9:00 a 13:00 e sábados de 10:00 a 14:00</value>
+			</Data>
+			<Data name="Telefono">
+				<value>664 404 347</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Negreira</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.749019426318876,42.91808019613352</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_56472734254742d78fac50892aa71cd8">
+		<name>Fene-Cabanas</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial Vilar do Colo, Parcela H.2</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Fene-Cabanas</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial Vilar do Colo, Parcela H.2<br/>
+Fene<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 492 707 (Concello)</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Ultimándose a posta en marcha da instalación</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Ultimándose a posta en marcha da instalación</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 492 707 (Concello)</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Fene</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.177243240387909,43.44563088448436</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_01216319d4784b909318d30e2c73422e">
+		<name>Sada</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Monte Perouteiro - Lugar do Vilar (Meirás)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Sada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Monte Perouteiro - Lugar do Vilar (Meirás)<br/>
+Sada<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 795 524</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 10 a 13 e de 15:30 a 18:30 horas. De martes a venres de 9:30 a 13 e de 15:30 a 19 horas e sábados de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 795 524</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sada</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.306436,43.344157</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_2d26ae1ac60643fca576467d47fa1ec6">
+		<name>Frades-Mesía</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parroquia de Céltigos, Lugar de Alamparte</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Frades-Mesía</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parroquia de Céltigos, Lugar de Alamparte<br/>
+Frades<br/>
+A Coruña
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 981 695 567 (Frades) -  981 687 001 (Mesía) (Concello)</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 16 a 20 horas e sábados de 12 a 16 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 16 a 20 horas e sábados de 12 a 16 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>981 695 567 (Frades) -  981 687 001 (Mesía) (Concello)</value>
+			</Data>
+			<Data name="Provincia">
+				<value>A Coruña</value>
+			</Data>
+			<Data name="Concello">
+				<value>Frades</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-8.213613,43.032546</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+<Folder id="id_-1565414741">
+	<name>Lugo</name>
+	<open>0</open>
+	<description>31 puntos limpos</description>
+	<Placemark id="id_1ba3cd647d9e4991b962ea3f85449d94">
+		<name>A Pobra do Brollón</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Lugar de Os Medos</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>A Pobra do Brollón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Lugar de Os Medos<br/>
+A Pobra do Brollón<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 430 001</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 16 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 16 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 430 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Pobra do Brollón</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.395139743540934,42.57146853061515</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b47461c2fce44f03aca5309a3225b700">
+		<name>Abadín</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Lugar de Gontán, A Xesta.</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Abadín</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Lugar de Gontán, A Xesta.<br/>
+Abadín<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 508 021</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Provisionalmente non operativo</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Provisionalmente non operativo</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 508 021</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Abadín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.425155276416966,43.38269659178178</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_1aa2bc925a8e4d4a8d20057ba76c03b1">
+		<name>Barreiros</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>San Cosme</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Barreiros</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+San Cosme<br/>
+Barreiros<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 606 011 564</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns e xoves de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns e xoves de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>606 011 564</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Barreiros</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.230821189870596,43.52440225838345</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6621465c29d740a1a0b0be6922e48c78">
+		<name>Becerreá</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Parque Empresarial de Becerreá</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Becerreá</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Parque Empresarial de Becerreá<br/>
+Becerreá<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 360 004</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 360 004</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Becerreá</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.153920093612069,42.85328164241421</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a9c5bf289da04e81b1311e95ce7d8e67">
+		<name>Burela</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Puida</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Burela</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Puida<br/>
+Burela<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 667 513 936</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes e xoves de 17 a 19 horas e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes e xoves de 17 a 19 horas e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>667 513 936</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Burela</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.374413485213895,43.65399359577265</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_a8915ceb41e048759c653b83dccab103">
+		<name>Cervo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono de Cuíña</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Cervo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono de Cuíña<br/>
+Cervo<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 557 777</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes de 8 a 10 e xoves de 9 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes de 8 a 10 e xoves de 9 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 557 777</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Cervo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.422567590310164,43.68789463822179</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e2bb9733ec9044f0ada767dd3f692024">
+		<name>Chantada</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Seixo, Parroquia de San Xurxo</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Chantada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Seixo, Parroquia de San Xurxo<br/>
+Chantada<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 670 052 257</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9 a 13 e de 14:30 a 18:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9 a 13 e de 14:30 a 18:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>670 052 257</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Chantada</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.782286505278234,42.60789177637155</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_70e13ae064ab4b49ab15f922ed7e88fa">
+		<name>Foz</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Escanlar, Parroquia de Vilaronte</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Foz</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Escanlar, Parroquia de Vilaronte<br/>
+Foz<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 140 027</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, mércores e venres de 9 a 13 e de 17 a 19 e sábados de 9 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, mércores e venres de 9 a 13 e de 17 a 19 e sábados de 9 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 140 027</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Foz</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.277313137145774,43.55854189882799</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_844f2906e2474103896f0d8f9eccd908">
+		<name>Friol</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Recinto ferial de Friol</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Friol</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Recinto ferial de Friol<br/>
+Friol<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 375 001</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 17 a 20 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 17 a 20 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 375 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Friol</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.796191389535244,43.03878751099354</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e1d682dd3ff44189a808d624bbec0cca">
+		<name>Guntín</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Monte Ladairo (detrás do campo de fútbol)</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Guntín</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Monte Ladairo (detrás do campo de fútbol)<br/>
+Guntín<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 320 001</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Sábados de 10:30 a 13:30</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Sábados de 10:30 a 13:30</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 320 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Guntín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.682331107265062,42.8982093685988</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_86d434d041794f3588fdace3f59377c1">
+		<name>Illa ecolóxica de Sober</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Canabal</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Illa ecolóxica de Sober</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Canabal<br/>
+Sober<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 460 001 (Concello)</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Provisionalmente non operativo</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Provisionalmente non operativo</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 460 001 (Concello)</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sober</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.594389024445567,42.47806301086932</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_f0729130da124beb9dfcc5d0f1ce06c2">
+		<name>Láncara</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Pobra de San Xiao</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Láncara</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Pobra de San Xiao<br/>
+Láncara<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 620 269 403</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>620 269 403</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Láncara</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.432047961726148,42.86294287345245</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_7e8db65a2a2349a8adc0118ea51f070d">
+		<name>Lourenzá</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial de Lourenzá</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Lourenzá</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial de Lourenzá<br/>
+Lourenzá<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 121 006</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, mércores e venres de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, mércores e venres de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 121 006</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Lourenzá</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.290573889492174,43.49046463713952</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_6d243cf5f3804546a5f84aa445b55fd0">
+		<name>Lugo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Rúa dos Carros s/n. Polígono do Ceao</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Lugo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa dos Carros s/n. Polígono do Ceao<br/>
+Lugo<br/>
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 209 560</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 10:30 a 13 e de 16 a 20 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 10:30 a 13 e de 16 a 20 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 209 560</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Lugo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.55870852396745,43.0458813911707</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_98e955265f384c959c08546fcaae2d44">
+		<name>Meira</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Meira</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Meira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Meira<br/>
+Meira<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 330 102 (Concello)</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Provisionalmente non operativo</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Provisionalmente non operativo</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 330 102 (Concello)</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Meira</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.285400223385576,43.20663806915597</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_9e9353ac6b864173a00e2dc9a9383c79">
+		<name>Monforte de Lemos</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Rúa Alonso Riós, zona de As Lamas</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Monforte de Lemos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Rúa Alonso Riós, zona de As Lamas<br/>
+Monforte de Lemos<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 402 501</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns, mércores e venres de 9:30 a 13 e de 15 a 19 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns, mércores e venres de 9:30 a 13 e de 15 a 19 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 402 501</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Monforte de Lemos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.521523297499504,42.53967581067426</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_71769602c4d44e5daa7a2aee8d8fe366">
+		<name>Monterroso</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>San Miguel de Penas</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Monterroso</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+San Miguel de Penas<br/>
+Monterroso<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 377 001</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Venres de 9:30 a 13:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Venres de 9:30 a 13:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 377 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Monterroso</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.790592091397506,42.80109289297833</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_c538e0610285469097f81cef513bd028">
+		<name>O Valadouro</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Ferreira do Valadouro</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>O Valadouro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Ferreira do Valadouro<br/>
+O Valadouro<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 617 232 959</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns e mércores de 9 a 13 e de 15 a 19 e sábados de 9 a 15 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns e mércores de 9 a 13 e de 15 a 19 e sábados de 9 a 15 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>617 232 959</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>O Valadouro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.424470977361306,43.54946155106733</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b4ee5e7c43b54403a3a0e4e73012fff5">
+		<name>Palas de Rei</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Avda. de Compostela</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Palas de Rei</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Avda. de Compostela<br/>
+Palas de Rei<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 667 584 771</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 14 a 19 e mércores, xoves e venres de 9 a 12 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 14 a 19 e mércores, xoves e venres de 9 a 12 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>667 584 771</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Palas de Rei</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.878383053811992,42.87382731348685</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_74feea4e903e45e6ac136d9eb8da50c8">
+		<name>Pantón</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Ferreira de Pantón</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Pantón</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Ferreira de Pantón<br/>
+Pantón<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 678 746 650</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 8:30 a 13:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 8:30 a 13:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>678 746 650</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Pantón</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.658345235828095,42.49854634523018</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_92ad226e285243308928cffddf77e13d">
+		<name>Portomarín</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Caho da Poza</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Portomarín</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Caho da Poza<br/>
+Portomarín<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 649 874 323</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Sábados de 10 a 12 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Sábados de 10 a 12 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>649 874 323</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Portomarín</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.619228445582275,42.81549472217118</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_cfc4a9e75e164323860c7b397ae81660">
+		<name>Quiroga</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Cha da Poza</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Quiroga</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Cha da Poza<br/>
+Quiroga<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 636 693 500</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 8 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 8 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>636 693 500</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Quiroga</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.26855563054036,42.46985032180836</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b37836c7655945aa9f481113d7ff9b2b">
+		<name>Ribadeo</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>O Valín, parroquia de Ove</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Ribadeo</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+O Valín, parroquia de Ove<br/>
+Ribadeo<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 619 551 895</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 9 a 13 e de 14:30 a 18:30 e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 9 a 13 e de 14:30 a 18:30 e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>619 551 895</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Ribadeo</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.067918742143488,43.51774837054088</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_4287a0b75a174d8db141e0aaae2e8814">
+		<name>Samos</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Negredo, parroquia de Samos</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Samos</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Negredo, parroquia de Samos<br/>
+Samos<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 618 623 700</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Mércores de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Mércores de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>618 623 700</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Samos</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.315464144741402,42.73107951411223</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_e017b94a6287461ba6d6af25f2a7cc90">
+		<name>Sarria</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial O Mourelle</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Sarria</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial O Mourelle<br/>
+Sarria<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 686 044 463</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a sábados de 9 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a sábados de 9 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>686 044 463</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Sarria</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.383038979961475,42.79939904851242</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_b715438b73944c8cb332a044776c1247">
+		<name>Serra de Meira</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Os Xuncás, San Cosme de Piñeiro</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Serra de Meira</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Os Xuncás, San Cosme de Piñeiro<br/>
+A Pastoriza<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 663 911 723</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns e mércores de 8:30 a 14:30 e sábados de 9 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns e mércores de 8:30 a 14:30 e sábados de 9 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>663 911 723</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>A Pastoriza</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.278636281449557,43.24335775678625</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_8cdb72da973545118f72e15c37520ac8">
+		<name>Taboada</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Medela, Carballo</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Taboada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Medela, Carballo<br/>
+Taboada<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 660 660 939</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes e xoves de 16 a 20 e sábados de 10 a 13:30 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes e xoves de 16 a 20 e sábados de 10 a 13:30 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>660 660 939</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Taboada</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.7515117468696,42.70914180999856</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_5c63b930c0d64387b8066d37fc89f9fe">
+		<name>Trabada</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Freita, estrada de Trabada a Xuga</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Trabada</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Freita, estrada de Trabada a Xuga<br/>
+Trabada<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 620 742 087</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Martes de 12:00 a 15:00 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Martes de 12:00 a 15:00 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>620 742 087</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Trabada</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.186709059409667,43.44072198570822</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_421fdf30fa294ecfb5b3c5bf8f5d41a6">
+		<name>Vilalba</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial de Vilalba</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Vilalba</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial de Vilalba<br/>
+Vilalba<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 510 440</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 16 a 20 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 16 a 20 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 510 440</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Vilalba</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.667194524751755,43.31153165747696</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_0837987a66bc47ee92fa3e4eb075e685">
+		<name>Viveiro</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>A Patarroa, Escourido</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Viveiro</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+A Patarroa, Escourido<br/>
+Viveiro<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 677 968 384</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>De luns a venres de 10 a 14 e de 16 a 18:30 e sábados de 10 a 14 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>De luns a venres de 10 a 14 e de 16 a 18:30 e sábados de 10 a 14 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>677 968 384</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Viveiro</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.622984946567369,43.6973062882772</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark id="id_754f9cdd12db4b50843551f692371dc4">
+		<name>Xove</name>
+		<ExtendedData>
+			<Data name="Enderezo">
+				<value>Polígono Industrial de Camba, Xuances</value>
+			</Data>
+			<Data name="DescricionCE">
+				<value><![CDATA[
+<style type="text/css">ul li{list-style-type:none;}</style>
+<p><strong>Xove</strong></p>
+<p><strong>Enderezo</strong>
+<ul><li>
+Polígono Industrial de Camba, Xuances<br/>
+Xove<br/>
+Lugo
+</li></ul></p>
+
+<p><strong>Contacto</strong>
+<ul>
+	<li><strong>Teléfono:</strong> 982 592 001</li>
+</ul></p>
+
+<p><strong>Horario</strong>
+<ul>
+	<li>Luns de 8 a 14:30 e de 16 a 18:30, de martes a venres de 8 a 15 e sábados de 10 a 13 horas</li>
+</ul></p>
+
+]]>
+</value>
+			</Data>
+			<Data name="Horario">
+				<value>Luns de 8 a 14:30 e de 16 a 18:30, de martes a venres de 8 a 15 e sábados de 10 a 13 horas</value>
+			</Data>
+			<Data name="Telefono">
+				<value>982 592 001</value>
+			</Data>
+			<Data name="Provincia">
+				<value>Lugo</value>
+			</Data>
+			<Data name="Concello">
+				<value>Xove</value>
+			</Data>
+		</ExtendedData>
+		<styleUrl>#TemaXunta</styleUrl>
+		<Point>
+			<coordinates>-7.538337388320744,43.68863695267182</coordinates>
+		</Point>
+	</Placemark>
+
+</Folder>
+</Document>
+</kml>
